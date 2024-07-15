@@ -1,2 +1,2 @@
-# postgres-produtos-infra
-Gerenciar a infraestrutura do banco de dados PostgreSQL utilizado pelo serviço de produtos.
+## 5SOAT - Grupo 33 - Infra Postgres (Produtos)
+Repositório Terraform para administrar a infra do banco de dados PostgreSQL do projeto Tech Challenge.
